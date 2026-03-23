@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ようこそ.md",
+                "file": "obsidan git 連係.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ようこそのアウトライン"
+              "title": "obsidan git 連係のアウトライン"
             }
           },
           {
@@ -209,13 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c138cc76dc377423",
+  "active": "afde08e519f33de4",
   "lastOpenFiles": [
+    "リンクを作成.md",
+    "sample.md",
     "zabbixスクリプト.md",
     "obsidan git 連係.md",
     "README.md",
-    "sample.md",
-    "リンクを作成.md",
     "2026-03-20.md",
     "2026-03-23.md",
     "無題のファイル.base",
