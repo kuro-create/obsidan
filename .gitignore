@@ -1,0 +1,11 @@
+# Obsidian internal cache
+.obsidian/cache
+.obsidian/workspace
+.obsidian/workspace.json
+
+# Windows 系
+Thumbs.db
+desktop.ini
+
+# Obsidian Git plugin（必要に応じて）
+.obsidian/plugins/obsidian-git/data.json

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "zabbixスクリプト"
             }
+          },
+          {
+            "id": "c138cc76dc377423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidan git 連係.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidan git 連係"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,9 +179,19 @@
               "icon": "lucide-list",
               "title": "ようこそのアウトライン"
             }
+          },
+          {
+            "id": "afde08e519f33de4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,13 +205,16 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "527e8b7e4abb7da6",
+  "active": "c138cc76dc377423",
   "lastOpenFiles": [
-    "sample.md",
     "zabbixスクリプト.md",
+    "obsidan git 連係.md",
+    "README.md",
+    "sample.md",
     "リンクを作成.md",
     "2026-03-20.md",
     "2026-03-23.md",
