@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5991b0869b3fb524",
+        "id": "841d653d7917c582",
         "type": "tabs",
         "children": [
           {
-            "id": "527e8b7e4abb7da6",
+            "id": "709c3dd01a99310d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zabbixスクリプト.md",
+                "file": "Linux/Nextcloud 削除処理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zabbixスクリプト"
-            }
-          },
-          {
-            "id": "c138cc76dc377423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/zabbixスクリプト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zabbixスクリプト"
-            }
-          },
-          {
-            "id": "36ef507c8ea834c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Nextcloud 不正な行フォーマット.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nextcloud 不正な行フォーマット"
+              "title": "Nextcloud 削除処理"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ef507c8ea834c1",
+  "active": "709c3dd01a99310d",
   "lastOpenFiles": [
+    "Linux/Nextcloud 削除処理.md",
     "Linux/zabbixスクリプト.md",
     "Linux/Nextcloud 不正な行フォーマット.md",
     "obsidan git 連係.md",
