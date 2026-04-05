@@ -195,3 +195,17 @@ Error: Maximum execution time of 360 seconds exceeded
 - タイムアウトはほぼ「物理削除」で発生
     
 - 外部ストレージ利用時は特に発生しやすい
+
+# ファイルの場所
+
+合計 28
+-rw-r--r-- 1 apache apache  225  7月 10  2025 BackendNotFoundException.php
+-rw-r--r-- 1 apache apache 1429  7月 10  2025 ITrashBackend.php
+-rw-r--r-- 1 apache apache 1295  7月 10  2025 ITrashItem.php
+-rw-r--r-- 1 apache apache  818  7月 10  2025 ITrashManager.php
+-rw-r--r-- 1 apache apache 3733  7月 10  2025 LegacyTrashBackend.php
+-rw-r--r-- 1 apache apache 3426  7月 10  2025 TrashItem.php
+-rw-r--r-- 1 apache apache 2859  7月 10  2025 TrashManager.php
+[root@rocky2 Trash]# pwd
+/var/www/html/nextcloud/apps/files_trashbin/lib/Trash
+[root@rocky2 Trash]# pwd
