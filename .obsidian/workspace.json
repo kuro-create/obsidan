@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のフォルダ/claude.md",
+                "file": "無題のフォルダ/領収書管理アプリ振り返り.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude"
+              "title": "領収書管理アプリ振り返り"
             }
           }
         ],
@@ -237,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56c59082a376b14b",
+  "active": "afde08e519f33de4",
   "lastOpenFiles": [
     "無題のフォルダ",
     "windows/wsl.md",
-    "無題のフォルダ/claude.md",
+    "無題のフォルダ/領収書管理アプリ振り返り.md",
     "Linux/バックアップソフト.md",
     "windows",
     "Linux/zabbixスクリプト.md",
