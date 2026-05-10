@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "証明書"
             }
+          },
+          {
+            "id": "9503d157c8d092ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "working/課題考え方.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "課題考え方"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,10 +279,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee380cb0213283c",
+  "active": "9503d157c8d092ea",
   "lastOpenFiles": [
-    "Linux/usermin/usermin調査.md",
     "Linux/usermin/証明書.md",
+    "working/課題考え方.md",
+    "無題のフォルダ 1",
+    "working",
+    "Linux/usermin/usermin調査.md",
     "無題のフォルダ/領収書管理アプリ振り返り.md",
     "Linux/usermin",
     "無題のフォルダ",
