@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mail/動作確認.md",
+                "file": "mail/設定前後の確認.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "動作確認"
+              "title": "設定前後の確認"
             }
           }
         ],
@@ -365,8 +365,9 @@
   },
   "active": "1dcad07e15a0ca5f",
   "lastOpenFiles": [
-    "mail/ロールバック手順.md",
     "mail/動作確認.md",
+    "mail/設定前後の確認.md",
+    "mail/ロールバック手順.md",
     "mail/作業観点.md",
     "mail/dkim.md",
     "OPENMP/step3-演習.md",
