@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mail/設定前後の確認.md",
+                "file": "OPENMP/演習ファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "設定前後の確認"
+              "title": "演習ファイル"
             }
           }
         ],
@@ -365,18 +365,22 @@
   },
   "active": "1dcad07e15a0ca5f",
   "lastOpenFiles": [
-    "mail/動作確認.md",
+    "OPENMP/parallelとparallel for.md",
+    "OPENMP/演習ファイル.md",
+    "OPENMP/private_public 変数.md",
+    "OPENMP/step3-演習.md",
+    "OPENMP/参考リンク.md",
+    "windows/wsl.md",
+    "OPENMP/step3.md",
+    "OPENMP/ロードマップ.md",
+    "OPENMP/1 openmpの基礎.md",
     "mail/設定前後の確認.md",
+    "mail/動作確認.md",
     "mail/ロールバック手順.md",
     "mail/作業観点.md",
     "mail/dkim.md",
-    "OPENMP/step3-演習.md",
     "mail",
-    "OPENMP/step3.md",
     "OPENMP/フォルダ構成.md",
-    "OPENMP/1 openmpの基礎.md",
-    "OPENMP/ロードマップ.md",
-    "windows/wsl.md",
     "OPENMP",
     "working/課題考え方.md",
     "Linux/usermin/証明書.md",
@@ -393,10 +397,7 @@
     "sample.md",
     "obsidan git 連係.md",
     "README.md",
-    "リンクを作成.md",
     "Linux",
-    "2026-03-20.md",
-    "2026-03-23.md",
     "無題のファイル.base",
     "無題のファイル 2.base",
     "無題のファイル 1.base",
